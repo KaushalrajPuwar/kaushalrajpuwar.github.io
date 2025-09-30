@@ -6,7 +6,7 @@ permalink: /
 
 <div style="display:flex; align-items:center; gap:30px; flex-wrap: wrap;">
 
-  <img src="assests/images/my-photo.png" alt="Kaushal" style="width:200px; border-radius:10px;">
+  <img src="assets/images/my-photo.png" alt="Kaushal" style="width:200px; border-radius:10px;">
 
   <div>
     <h1>Hi, I'm Kaushal 👋</h1>
