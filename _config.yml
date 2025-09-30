@@ -2,4 +2,4 @@ theme: jekyll-theme-modernist
 collections:
   blog:
     output: true
-    permalink: /blog/:title/
+    permalink: /a/:title/
