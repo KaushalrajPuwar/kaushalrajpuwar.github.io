@@ -16,7 +16,7 @@ I’m eager to expand into:
 - Cloud-native architectures  
 - Automation and Containerised projects
 
-I'm also tryin to improve my typing speed. My current speed is 55 WPM.
+I'm also trying to improve my typing speed. My current speed is 55 WPM.
 
 ---
 
