@@ -17,7 +17,7 @@ This page will grow as I explore more technologies and complete more projects.
 - **Description:** A ROS 2 package for dynamically bridging critical and non-critical subscribers in wireless and local systems, addressing the slow subscriber problem with adaptive QoS.
 - **Tech:** ROS 2, C++ and Docker  
 - **Status:** In progress
-- **View on Github:** [adaptive-bridge](https://github.com/KaushalrajPuwar/adaptive-bridge)
+- **View on Github:** [adaptive-bridge](https://github.com/KaushalrajPuwar/adaptive-bridge/)
 
 ---
 
