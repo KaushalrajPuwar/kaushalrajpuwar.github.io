@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "127.0.0.1"
 permalink: /
 ---
