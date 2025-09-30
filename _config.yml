@@ -1,1 +1,5 @@
 theme: jekyll-theme-modernist
+collections:
+  blog:
+    output: true
+    permalink: /blog/:title/
