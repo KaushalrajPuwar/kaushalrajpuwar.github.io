@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: default
 title: Let there be light
 date: 2025-10-01
 categories: [blog, journey]
 tags: [computer-science, ros2, docker, aws]
-permalink: /let-there-be-light-01/
+permalink: /blog/let-there-be-light/
 ---
 
 Hello there!  
