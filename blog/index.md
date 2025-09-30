@@ -10,4 +10,4 @@ Here’s where I document my journey, experiments, and projects.
 
 ## Latest Posts
 
-- [Let there be light - Welcome](/2025/10/01/let-there-be-light.html) – October 01, 2025
+- [Let there be light - Welcome](/let-there-be-light-01/) – October 01, 2025
