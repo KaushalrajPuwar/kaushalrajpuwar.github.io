@@ -8,6 +8,8 @@ permalink: /about/
 
 Hi! I'm Kaushal, and this is my corner of the web. 
 
+---
+
 ## 🌱 Interests
 I’m eager to expand into:  
 - Machine Learning and AI  
@@ -15,6 +17,8 @@ I’m eager to expand into:
 - Automation and Containerised projects
 
 I'm also tryin to improve my typing speed. My current speed is 55 WPM.
+
+---
 
 ## 📬 Contact
 Feel free to reach out for collaborations or just to say hi!  

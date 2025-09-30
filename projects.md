@@ -19,8 +19,12 @@ This page will grow as I explore more technologies and complete more projects.
 - **Status:** In progress
 - **View on Github:** [adaptive-bridge](https://github.com/KaushalrajPuwar/adaptive-bridge)
 
+---
+
 ## 📂 Future Projects
 - Machine Learning: Patient Recovery Prediction Model  
+
+---
 
 ## 📌 Notes
 I’ll be updating this page frequently as I complete projects.  
