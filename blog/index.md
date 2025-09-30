@@ -8,8 +8,6 @@ permalink: /blog/
 
 Here’s where I document my journey, experiments, and projects.
 
-<ul>
-{% for post in site.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%B %d, %Y" }}</li>
-{% endfor %}
-</ul>
+## Latest Posts
+
+- [Let there be light - Welcome](/blog/let-there-be-light) – October 01, 2025
